@@ -30,7 +30,7 @@ Unreal Engine · game AI · NavMesh navigation · game physics · first-person c
 
 ## Screenshots
 
-_Coming soon._
+![Arena Shooter gameplay](screenshots/gameplay.png)
 
 ---
 
